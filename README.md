@@ -2,6 +2,9 @@
 
 A classic color-matching memory game built as a frontend exercise.
 
+<img width="498" height="561" alt="Memory Game Screenshot" src="https://github.com/user-attachments/assets/31eaf70e-4575-4670-9e07-f34d5dc4a1b0" />
+
+
 ## How it works
 
 Flip cards to reveal their hidden color. Match all 15 pairs to win. The game tracks your moves and time, and saves your best score for the session.
